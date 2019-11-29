@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum">
+  <component name="RunManager" selected="Gradle.MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum">
     <configuration name="MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -106,8 +106,29 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" />
       </list>
