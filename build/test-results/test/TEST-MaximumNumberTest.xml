@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MaximumNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-29T07:03:30" hostname="admin1-H110M-H" time="0.002">
+<testsuite name="MaximumNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-29T07:07:01" hostname="admin1-H110M-H" time="0.001">
   <properties/>
-  <testcase name="giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" classname="MaximumNumberTest" time="0.002"/>
+  <testcase name="giveThreeIntegerNumbers_CheckMaximumNumbers_ShouldReturnMaximum" classname="MaximumNumberTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
