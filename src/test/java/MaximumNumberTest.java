@@ -27,14 +27,14 @@ public class MaximumNumberTest
     @Test
     public void givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum()
     {
-        Float maximumNumber=MaximumNumber.findFloatMaximum(1.1f,2.2f,3.3f);
+        Float maximumNumber=MaximumNumber.findMaximum(1.1f,2.2f,3.3f);
         Assert.assertEquals(Float.valueOf(3.3f),maximumNumber);
     }
 
     @Test
     public void givenThreeString_CheckStrings_ShouldReturnMaximum()
     {
-        String maximumString=MaximumNumber.findStringMaximum("Deepali","Lokesh","Patil");
+        String maximumString=MaximumNumber.findMaximum("Deepali","Lokesh","Patil");
         Assert.assertEquals("Patil",maximumString);
     }
 }

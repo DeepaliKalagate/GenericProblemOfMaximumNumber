@@ -155,9 +155,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.MaximumNumberTest.givenThreeString_CheckStrings_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" />
-        <item itemvalue="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" />
       </list>
     </recent_temporary>
   </component>
