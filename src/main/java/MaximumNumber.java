@@ -1,5 +1,10 @@
 public class MaximumNumber<E extends Comparable>
 {
+    public E printMaximumNumber(E max)
+    {
+        System.out.println("Maximum Number : "+max);
+        return max;
+    }
     public E findMaximum(E... elements)
     {
         for (int i = 0; i < elements.length - 1; i++)
@@ -14,6 +19,7 @@ public class MaximumNumber<E extends Comparable>
                 }
             }
         }
+        this.printMaximumNumber(elements[elements.length - 1]);
         return elements[elements.length - 1];
     }
 
