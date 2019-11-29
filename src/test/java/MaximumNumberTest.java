@@ -30,4 +30,11 @@ public class MaximumNumberTest
         Float maximumNumber=MaximumNumber.findFloatMaximum(1.1f,2.2f,3.3f);
         Assert.assertEquals(Float.valueOf(3.3f),maximumNumber);
     }
+
+    @Test
+    public void givenThreeString_CheckStrings_ShouldReturnMaximum()
+    {
+        String maximumString=MaximumNumber.findStringMaximum("Deepali","Lokesh","Patil");
+        Assert.assertEquals("Patil",maximumString);
+    }
 }
