@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c5e537-70f6-494b-8bb2-a1607bcd5c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MaximumNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaximumNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumNumberTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +42,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum">
+    <configuration name="MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -68,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" />
       </list>
     </recent_temporary>
