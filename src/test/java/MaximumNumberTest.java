@@ -23,4 +23,11 @@ public class MaximumNumberTest
         Integer maximumNumber=MaximumNumber.findMaximum(20,30,10);
         Assert.assertEquals(Integer.valueOf(30),maximumNumber);
     }
+
+    @Test
+    public void givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum()
+    {
+        Float maximumNumber=MaximumNumber.findFloatMaximum(1.1f,2.2f,3.3f);
+        Assert.assertEquals(Float.valueOf(3.3f),maximumNumber);
+    }
 }
