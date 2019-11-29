@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c5e537-70f6-494b-8bb2-a1607bcd5c51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaximumNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumNumberTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumNumberTest.givenThreeString_CheckStrings_ShouldReturnMaximum">
+  <component name="RunManager" selected="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum">
     <configuration name="MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -135,8 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MaximumNumberTest.givenThreeString_CheckStrings_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeNumbers_CheckNumbers_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.MaximumNumberTest.givenThreeString_CheckStrings_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.givenThreeFloatNumbers_CheckNumbers_ShouldReturnMaximum" />
         <item itemvalue="Gradle.MaximumNumberTest.giveThreeIntegerNumbers_CheckNumbers_ShouldReturnMaximum" />
       </list>
@@ -160,7 +162,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
